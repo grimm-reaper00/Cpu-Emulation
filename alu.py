@@ -1,0 +1,2 @@
+from opcodes import Flag
+

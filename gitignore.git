@@ -1,0 +1,20 @@
+# Bytecode e Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# IDEs e Editores de Texto
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ferramentas de Teste / Cobertura (se usar futuramente)
+.pytest_cache/
+.coverage
